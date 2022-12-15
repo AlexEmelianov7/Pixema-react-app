@@ -1,0 +1,14 @@
+.sliderBtn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  &:disabled {
+    cursor: auto;
+  }
+}
+.sliderBtn .sliderBtnSvg{
+  stroke: var(#{--text-color-default});
+}
+.sliderBtn:disabled .sliderBtnSvg{
+  stroke: #AFB2B6;
+}

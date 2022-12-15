@@ -1,0 +1,42 @@
+.navTab{
+    cursor: pointer;
+    background: inherit;
+    border: none;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: fit-content;
+    transition: 0.6s;
+    &:hover{
+        transition: 0.6s;
+        p{
+            color: #917CFF;
+            transition: 0.6s;
+        }
+        svg{
+            & path{
+                fill: #917CFF;
+                transition: 0.6s;
+            }
+        }
+    }
+    & p{
+        color: #80858B;
+    }
+    & svg{
+        & path{
+            fill: #80858B;
+        }
+    }
+    &Active{
+        transition: 0.6s;
+        & p{
+            color: #7B61FF;
+        }
+        & svg{
+            & path{
+                fill: #7B61FF;
+            }
+        }
+    }
+}
