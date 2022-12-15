@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Pixema-react-app/static/css/main.1fa610eb.css",
+    "main.js": "/Pixema-react-app/static/js/main.f9985cf4.js",
+    "static/media/registration.jpg": "/Pixema-react-app/static/media/registration.7cca4669d2d990d9773c.jpg",
+    "static/media/PosterNotFound.jpg": "/Pixema-react-app/static/media/PosterNotFound.d091695c5b1be1496ebb.jpg",
+    "static/media/LogoLight.svg": "/Pixema-react-app/static/media/LogoLight.22981b9ec8b862428f9a0d7bad09443a.svg",
+    "static/media/Logo.svg": "/Pixema-react-app/static/media/Logo.ef69f378f7796fa43e7162952fc3af4f.svg",
+    "static/media/GoTopBtn.svg": "/Pixema-react-app/static/media/GoTopBtn.aba2caaa7e7947ade4606f75d0aedd09.svg",
+    "index.html": "/Pixema-react-app/index.html",
+    "static/media/Cancel.svg": "/Pixema-react-app/static/media/Cancel.bf7367d1a24a6b8635a7f285a24a5079.svg",
+    "static/media/CrossBurger.svg": "/Pixema-react-app/static/media/CrossBurger.2ae8ff164954a65d5636519cd4351c8d.svg",
+    "static/media/ArrowNoNAuth.svg": "/Pixema-react-app/static/media/ArrowNoNAuth.04cbba286cb2185956ac3c90039eb2e9.svg",
+    "static/media/ArrowAuth.svg": "/Pixema-react-app/static/media/ArrowAuth.9f3db56b4088b298d6e2a504f288125c.svg",
+    "static/media/user.svg": "/Pixema-react-app/static/media/user.a3867c46a05515d83bd9fe2a072c9723.svg",
+    "static/media/Search.svg": "/Pixema-react-app/static/media/Search.a628ca3e3aa3b2601aba441b840aed98.svg",
+    "static/media/burger.svg": "/Pixema-react-app/static/media/burger.31c808eae2a074639a3076cebc3b91f9.svg",
+    "main.1fa610eb.css.map": "/Pixema-react-app/static/css/main.1fa610eb.css.map",
+    "main.f9985cf4.js.map": "/Pixema-react-app/static/js/main.f9985cf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa610eb.css",
+    "static/js/main.f9985cf4.js"
+  ]
+}
