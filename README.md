@@ -4,6 +4,8 @@
 - The trends tab, which contains the latest movies with the highest rating;
 - Firebase registration in the application with the ability to change your data (email, password),
 - Changing the themes of the application.
+
 Tech stack:
 • TypeScript, JavaScript • ReactJS • React-redux • Redux-thunk • React-router-dom • React-hook-form React-select • Firebase • SCSS
+
 API: https://kinopoisk.dev/documentation.html
